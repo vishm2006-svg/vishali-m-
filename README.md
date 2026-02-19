@@ -74,6 +74,12 @@ Current CGPA: \*\*9.6\*\*
 
 ---
 
+## Projects
+- GitHub Profile Setup
+
+## Currently Learning
+- SQL
+- Advanced Git
 
 
 \## Technical Foundation
